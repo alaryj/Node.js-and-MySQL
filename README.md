@@ -46,8 +46,19 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
 
 ## Finished product
+    This shows the app asking the customer what item they would like to by. After the customer enters a number, the app asks how many of that item they'd like to purchase. After entering a number, the app provides a total price and asks if the customer would like to make another purchase.
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/screenshot1.png)
+
+    Notice in the next photo, the quantity has been updated after the last purchase.
+
+![Screenshot](/images/screenshot2.png)
+
+    These photos show the table updating with each purchase in Sequel Pro.
+
+![Screenshot](/images/screenshot3.png)
+
+![Screenshot](/images/screenshot4.png)
 
 ## Video
-###### Check out a video of the working product at 
+###### Check out a video of the working product at https://goo.gl/KSVzeD
