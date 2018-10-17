@@ -54,6 +54,10 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
 ![Screenshot](/images/screenshot2.png)
 
+    If the customer attempts to purchase more of an item than there is available they would see the following:
+
+![Screenshot](/images/screenshot5.png)
+
     These photos show the table updating with each purchase in Sequel Pro.
 
 ![Screenshot](/images/screenshot3.png)
